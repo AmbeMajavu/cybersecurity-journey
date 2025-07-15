@@ -24,10 +24,11 @@ This program helps me learn about:
 - LinkedIn for reflection posts
 
 ## Goals
- Enroll in the course
- Complete all 4 modules
- Build a portfolio project from what I learn
- Apply to junior cybersecurity roles
+- [x] Enroll in the course
+- [ ] Complete all 8 modules
+- [ ] Build a portfolio project from what I learn
+- [ ] Apply to junior cybersecurity roles
+
 
 ## Certificates
 Once completed, I’ll upload my certificate here!
