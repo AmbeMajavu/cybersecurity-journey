@@ -1,38 +1,47 @@
-# Google Cybersecurity Certificate – Learning Journey
+# My Cybersecurity Journey: Google Certificate Edition
 
-Welcome! This repo tracks my progress as I complete the **Google Cybersecurity Certificate** on Coursera.  
-I’m passionate about cybersecurity and eager to build a strong foundation through hands-on labs and real-world problem-solving.
+Welcome to my learning journal!  
+I'm Ambesiwe Majavu — an IT graduate with a passion for cybersecurity and a mission to break into the tech industry through consistent, hands-on learning.
 
-## Why I’m Taking This Course
-As an IT graduate, I'm sharpening my skills to pursue a career in **cybersecurity**.  
-This program helps me learn about:
-- Network security
-- Risk management
-- Threat detection
-- Linux, SIEM tools, and more
+This repository documents my progress as I complete the **Google Cybersecurity Certificate** on Coursera.
 
-## Course Modules
-| Week | Module Title | Notes |
-|------|--------------|-------|
-|  Week 1 | Module 1 & Module 2| [Notes](./Week1_Foundations.md) |
-|  Week 2 | Module 2 & Module 3 | Coming soon... |
+---
 
+##  What This Repo Includes
 
-##  Learning Tools
-- TryHackMe (labs)
-- GitHub for tracking
-- LinkedIn for reflection posts
+- **Weekly Notes & Summaries** of each course module
+- **Key Concepts** I'm learning (with definitions and examples)
+- **Tools I Explore** like Linux, Nmap, Wireshark, and SIEM
+- **Mini Projects & Labs** to apply my learning
 
-## Goals
-- [x] Enroll in the course
-- [ ] Complete all 4 modules
-- [ ] Build a portfolio project from what I learn
-- [ ] Apply to junior cybersecurity roles
+---
+
+##  My Learning Goals
+
+- Enroll in the Google Cybersecurity Certificate  
+- Understand core concepts: CIA triad, threat modeling, risk management  
+- Gain hands-on experience with command-line tools  
+- Build a public portfolio of learning (right here!)  
+- Apply for junior cybersecurity roles with confidence
+
+---
 
 
-## Certificates
-Once completed, I’ll upload my certificate here!
+## Why I’m Sharing Publicly
 
+Learning in public helps me stay accountable and also inspire others — especially women in tech — to take their next step.  
+This journey isn’t just about certifications, it’s about building **real skills** and showing up consistently.
+
+---
+
+## Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ambesiwe-majavu-2a908b241)  
+- Open to collaboration, internships & mentorship
+
+---
+
+Thanks for stopping by Feel free to explore my notes, give feedback, or follow along!
 
 
 
