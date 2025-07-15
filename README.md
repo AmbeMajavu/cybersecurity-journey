@@ -25,7 +25,7 @@ This program helps me learn about:
 
 ## Goals
 - [x] Enroll in the course
-- [ ] Complete all 8 modules
+- [ ] Complete all 4 modules
 - [ ] Build a portfolio project from what I learn
 - [ ] Apply to junior cybersecurity roles
 
