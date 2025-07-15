@@ -1,9 +1,8 @@
 # My Cybersecurity Journey: Google Certificate Edition
 
 Welcome to my learning journal!  
-I'm Ambesiwe Majavu — an IT graduate with a passion for cybersecurity and a mission to break into the tech industry through consistent, hands-on learning.
 
-This repository documents my progress as I complete the **Google Cybersecurity Certificate** on Coursera.
+This repository documents my progress as I complete the **Google Cybersecurity Professional Certificate** on Coursera.
 
 ---
 
