@@ -40,7 +40,7 @@ This journey isn’t just about certifications, it’s about building **real ski
 
 ---
 
-Thanks for stopping by Feel free to explore my notes, give feedback, or follow along!
+Thanks for stopping b. Feel free to explore my notes, give feedback, or follow along!
 
 
 
